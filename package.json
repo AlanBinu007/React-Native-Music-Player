@@ -1,0 +1,13 @@
+{
+	"name": "react-native-audio-player",
+	"version": "1.0.0",
+	"description": "React Native Audio Player",
+	"author": "Nick Parsons <nparsons08@gmail.com>",
+	"main": "node_modules/expo/AppEntry.js",
+	"dependencies": {
+		"expo": "^21.0.2",
+		"react": "16.0.0",
+		"react-native": "expo/react-native#sdk-21",
+		"react-native-slider": "^0.11.0"
+	}
+}
