@@ -6,9 +6,10 @@ An example audio player app for [React Native](https://facebook.github.io/react-
 
 ## Install
 
-1. `git clone git@github.com:GetStream/react-native-audio-player.git`
+1. `git clone`
 2. `cd react-native-audio-player`
-3. `yarn install`
+3. `npm install`
+4. `npm start`
 
 ## Start
 
